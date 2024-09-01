@@ -32,5 +32,6 @@ Given('this will pass') do
   Given('this will fail') do
     @driver.find_element(:id, "first-name").click    
     @driver.find_element(:id, "last-name").click    
-    @driver.find_element(:id, "postal-code").click
+    @driver.find_element(:id, "postal-code").click*
+    9
   end

@@ -7,4 +7,3 @@ Feature: Success Login
       When I do an action
       Then some results should be there
 
-   
